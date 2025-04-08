@@ -38,7 +38,7 @@ public class User {
 class MainForUser {
     public static void main(String[] args) {
         // Valid case
-        new User("Kuntal");
+        new User("ABC");
 
         // Invalid case
         new User("VeryLongUsername");
